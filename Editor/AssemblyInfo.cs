@@ -1,3 +1,3 @@
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Moi.CustomPackage.Editor.Tests")]
+[assembly: InternalsVisibleTo("MyOrganization.MyPlugin.Editor.Tests")]

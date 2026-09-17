@@ -1,1 +1,0 @@
-Editor resources (icons etc.)

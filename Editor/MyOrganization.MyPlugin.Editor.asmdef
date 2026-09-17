@@ -1,6 +1,6 @@
 {
-    "name": "Moi.CustomPackage.Editor",
-    "rootNamespace": "Moi.CustomPackage.Editor",
+    "name": "MyOrganization.MyPlugin.Editor",
+    "rootNamespace": "MyOrganization.MyPlugin.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

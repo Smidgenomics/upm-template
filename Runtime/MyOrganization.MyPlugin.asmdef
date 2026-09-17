@@ -1,6 +1,6 @@
 {
-    "name": "Moi.CustomPackage",
-    "rootNamespace": "Moi.CustomPackage",
+    "name": "MyOrganization.MyPlugin",
+    "rootNamespace": "MyOrganization.MyPlugin",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 
 #if UNITY_EDITOR
-[assembly: InternalsVisibleTo("Moi.CustomPackage.Editor")]
-[assembly: InternalsVisibleTo("Moi.CustomPackage.Tests")]
+[assembly: InternalsVisibleTo("MyOrganization.MyPlugin.Editor")]
+[assembly: InternalsVisibleTo("MyOrganization.MyPlugin.Tests")]
 #endif

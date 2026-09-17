@@ -1,12 +1,25 @@
 {
-	"name":"com.moi.custom-package",
+	"name":"com.myorganization.my-plugin",
 	"version":"0.1.0",
-	"displayName":"Custom Package",
-	"description":"Drink. My. Hot. Kool-Aid.",
-	"unity":"2020.3",
+	"displayName":"My Plugin",
+	"description":"Short summary",
+	"unity":"6000.3",
+	"unityRelease":"21f1",
+	"license": "MIT",
+	"documentationUrl":"",
+	"licensesUrl":"",
+	"changelogUrl":"",
 	"author":{
-		"name":"Fancy McFancypants",
+		"name":"Slartibartfast",
 		"email":"fancy@veryfancy.com",
-		"url":"veryfancy.com"
-	}
+		"url":"https://veryfancy.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MyOrganization/my-plugin.git"
+	},
+	"keywords": [
+		"tool",
+		"editor"
+	]
 }
